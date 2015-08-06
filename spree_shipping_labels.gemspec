@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'spree_core', '~> 3.0'
 
   # For estimating a variety of providers
-  s.add_dependency 'active_shipping', '~> 1.0.0.pre4'
+  s.add_dependency 'active_shipping', '~> 1.4.2'
 
   s.add_development_dependency 'coffee-rails'
   s.add_development_dependency 'sass-rails'
